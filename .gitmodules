@@ -1,0 +1,6 @@
+[submodule "API"]
+	path = API
+	url = git@github.com:pepemargla/Boilerplate.MERN.next-API.git
+[submodule "production"]
+	path = production
+	url = git@github.com:pepemargla/Boilerplate.MERN.next-Production.git
